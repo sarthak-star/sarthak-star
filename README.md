@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there👋, I'm Sarthak i am a frontend developer and a Blockchain enthusiast from India<br><br>💫 Here are some things about me:<br>🔭 I’m currently getting my hands on react js and Web 3.0 technology<br><br>🌱 I’m currently learning Full stack web development(MERN Stack)<br><br>💬 Ask me about Frontend development and Data Structure and algorithms<br><br>👯 I’m looking to collaborate on any creative ideas where i can learn more<br><br>📫 Reach me at sarthakbathla17@gmail.com
+<br>Hi there👋, I'm Sarthak i am a MERN developer and a Data Science enthusiast from India<br><br>💫 Here are some things about me:<br>🔭 I’m currently getting my hands on ML and AI<br><br>🌱 I’m proficient in Full stack web development(MERN Stack)<br><br>💬 Ask me about MERN development , Data Science and Data Structure and algorithms<br><br>👯 I’m looking to collaborate on any creative ideas where i can learn more<br><br>📫 Reach me at sarthakbathla17@gmail.com
 
 
 ## 🌐 Socials:
